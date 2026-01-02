@@ -2,4 +2,4 @@
 /.env.staging
 /.env.production
 /.env
-/package-lock.json
+# /package-lock.json
