@@ -1,5 +1,5 @@
 /node_modules
-# /.env.staging
-# /.env.production
-# /.env
-# /package-lock.json
+/.env.staging
+/.env.production
+/.env
+/package-lock.json
