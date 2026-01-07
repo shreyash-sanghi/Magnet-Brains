@@ -6,7 +6,7 @@ export const nodeEnvs = {
 
 
 export const corsOptions = {
-    origin: "*",
+    origin: "https://magnet-brains-chi.vercel.app",
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
     preflightContinue: false,
     optionsSuccessStatus: 204,
