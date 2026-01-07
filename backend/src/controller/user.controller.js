@@ -34,6 +34,7 @@ export class userController {
           new APIError(result.statusCode, result.message)
         );
       }
+    
       response.cookie("token", result.data.token, cookieOptions);
 
       return Response.Send(
